@@ -1,0 +1,16 @@
+[
+    {
+        "image": "images/promo-landscape.jpg",
+        "title": "BUSINESS LUNCH",
+        "subtitle": "Mon - Fri, 11 AM - 2 PM",
+        "link": "https://wa.me/6281196941710",
+        "button_text": "CLAIM OFFER"
+    },
+    {
+        "image": "images/BKI01773.jpg",
+        "title": "HAPPY HOUR",
+        "subtitle": "Daily 4 PM - 7 PM",
+        "link": "https://wa.me/6281196941710",
+        "button_text": "RESERVE NOW"
+    }
+]
